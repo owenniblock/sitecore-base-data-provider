@@ -1,0 +1,20 @@
+﻿---
+ID: db42d1c5-9348-46a5-93f4-0f06f2f1777f
+Parent: afbcb8dd-618d-4b9c-b31d-6ba257bd56c8
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/Modules/Example Connector/Provider Templates/Provider Folder/Data Fields/ExternalId
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Single-Line Text
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 100
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160104T131231Z

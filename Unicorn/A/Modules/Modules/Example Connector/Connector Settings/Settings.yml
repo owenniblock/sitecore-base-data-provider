@@ -1,0 +1,16 @@
+﻿---
+ID: 978559eb-b654-47c3-a140-c3d9c02c9df7
+Parent: 7c6f6f7f-eaa0-4e8c-9200-ecc2b95f8dff
+Template: e269fbb5-3750-427a-9149-7aa950b49301
+Path: /sitecore/templates/Modules/Example Connector/Connector Settings/Settings
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160106T112342Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

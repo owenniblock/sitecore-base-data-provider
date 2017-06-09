@@ -1,0 +1,271 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>D:\Work\Code\Sitecore Websites\dataproviderhelper\Website</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="App_Config/Include/AssetBank/Kumquat.SAS.AssetBank.config">
+      <publishTime>04/05/2017 16:50:01</publishTime>
+    </File>
+    <File Include="App_Config/Include/AssetBank/Kumquat.SAS.AssetBank.config.example">
+      <publishTime>05/25/2016 12:27:51</publishTime>
+    </File>
+    <File Include="App_Config/Include/AssetBank/Kumquat.SAS.AssetBank.MimeTypeMappings.config">
+      <publishTime>01/04/2016 13:44:52</publishTime>
+    </File>
+    <File Include="App_Config/Include/ExampleIntegration/Kumquat.SAS.ExampleIntegration.config">
+      <publishTime>06/07/2017 23:08:20</publishTime>
+    </File>
+    <File Include="App_Config/Include/Rainbow.config">
+      <publishTime>06/09/2017 21:50:54</publishTime>
+    </File>
+    <File Include="App_Config/Include/Rainbow.TFS.config.example">
+      <publishTime>12/20/2015 20:25:56</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.AutoPublish.config">
+      <publishTime>06/09/2017 21:51:15</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.config">
+      <publishTime>06/09/2017 21:51:15</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.Default.config">
+      <publishTime>06/09/2017 21:49:43</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.Default.example">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.Dependency.config.example">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.NewItemsOnly.example">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Configs.SerializationFolder.config.example">
+      <publishTime>12/20/2015 20:32:13</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.CustomSerializationFolder.config.example">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.DataProvider.config">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Deployed.config.disabled">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Dilithium.config.example">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.PowerShell.config">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.Remote.config.disabled">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.UI.config">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="App_Config/Include/Unicorn/Unicorn.zSharedSecret.config.example">
+      <publishTime>06/09/2017 21:51:09</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Rainbow.config">
+      <publishTime>12/20/2015 20:25:56</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Rainbow.TFS.config.example">
+      <publishTime>12/20/2015 20:25:56</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.AutoPublish.config">
+      <publishTime>12/20/2015 20:25:59</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.config">
+      <publishTime>06/09/2017 21:51:15</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.Configs.Default.config">
+      <publishTime>06/09/2017 21:49:43</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.Configs.NewItemsOnly.example">
+      <publishTime>12/20/2015 20:25:59</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.Configs.SerializationFolder.config.example">
+      <publishTime>12/20/2015 20:32:13</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.DataProvider.config">
+      <publishTime>12/20/2015 20:25:59</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.Deployed.config.disabled">
+      <publishTime>12/20/2015 20:25:59</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.Remote.config.disabled">
+      <publishTime>12/20/2015 20:25:59</publishTime>
+    </File>
+    <File Include="bin/App_Config/Include/Unicorn/Unicorn.UI.config">
+      <publishTime>12/20/2015 20:25:59</publishTime>
+    </File>
+    <File Include="bin/Configy.dll">
+      <publishTime>04/05/2017 08:23:42</publishTime>
+    </File>
+    <File Include="bin/Kamsar.WebConsole.dll">
+      <publishTime>04/28/2017 12:58:36</publishTime>
+    </File>
+    <File Include="bin/Kumquat.AssetBank.dll">
+      <publishTime>04/05/2017 16:50:11</publishTime>
+    </File>
+    <File Include="bin/Kumquat.AssetBank.Interfaces.dll">
+      <publishTime>04/05/2017 16:50:10</publishTime>
+    </File>
+    <File Include="bin/Kumquat.AssetBank.Interfaces.pdb">
+      <publishTime>04/05/2017 16:50:10</publishTime>
+    </File>
+    <File Include="bin/Kumquat.AssetBank.pdb">
+      <publishTime>04/05/2017 16:50:11</publishTime>
+    </File>
+    <File Include="bin/Kumquat.AssetBank.Website.dll">
+      <publishTime>04/05/2017 16:50:17</publishTime>
+    </File>
+    <File Include="bin/Kumquat.AssetBank.Website.pdb">
+      <publishTime>04/05/2017 16:50:17</publishTime>
+    </File>
+    <File Include="bin/Kumquat.ExampleIntegration.dll">
+      <publishTime>06/07/2017 23:13:40</publishTime>
+    </File>
+    <File Include="bin/Kumquat.ExampleIntegration.Interfaces.dll">
+      <publishTime>06/07/2017 22:02:12</publishTime>
+    </File>
+    <File Include="bin/Kumquat.ExampleIntegration.Interfaces.pdb">
+      <publishTime>06/07/2017 22:02:12</publishTime>
+    </File>
+    <File Include="bin/Kumquat.ExampleIntegration.pdb">
+      <publishTime>06/07/2017 23:13:40</publishTime>
+    </File>
+    <File Include="bin/Kumquat.ExampleIntegration.Website.dll">
+      <publishTime>06/09/2017 21:51:35</publishTime>
+    </File>
+    <File Include="bin/Kumquat.ExampleIntegration.Website.pdb">
+      <publishTime>06/09/2017 21:51:35</publishTime>
+    </File>
+    <File Include="bin/Kumquat.SAS.SC.Core.dll">
+      <publishTime>01/04/2016 10:52:24</publishTime>
+    </File>
+    <File Include="bin/Kumquat.SAS.SC.Core.pdb">
+      <publishTime>01/04/2016 10:52:24</publishTime>
+    </File>
+    <File Include="bin/Kumquat.SAS.SC.dll">
+      <publishTime>06/09/2017 21:33:47</publishTime>
+    </File>
+    <File Include="bin/Kumquat.SAS.SC.Interfaces.dll">
+      <publishTime>06/07/2017 21:25:44</publishTime>
+    </File>
+    <File Include="bin/Kumquat.SAS.SC.Interfaces.pdb">
+      <publishTime>06/07/2017 21:25:44</publishTime>
+    </File>
+    <File Include="bin/Kumquat.SAS.SC.pdb">
+      <publishTime>06/09/2017 21:33:47</publishTime>
+    </File>
+    <File Include="bin/Kumquat.Utilities.dll">
+      <publishTime>06/07/2017 21:25:44</publishTime>
+    </File>
+    <File Include="bin/Kumquat.Utilities.Interfaces.dll">
+      <publishTime>06/07/2017 21:25:44</publishTime>
+    </File>
+    <File Include="bin/Kumquat.Utilities.Interfaces.pdb">
+      <publishTime>06/07/2017 21:25:44</publishTime>
+    </File>
+    <File Include="bin/Kumquat.Utilities.pdb">
+      <publishTime>06/07/2017 21:25:44</publishTime>
+    </File>
+    <File Include="bin/MicroCHAP.dll">
+      <publishTime>10/11/2016 12:51:56</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>10/13/2015 22:16:14</publishTime>
+    </File>
+    <File Include="bin/Rainbow.dll">
+      <publishTime>05/08/2017 13:52:18</publishTime>
+    </File>
+    <File Include="bin/Rainbow.Storage.Sc.dll">
+      <publishTime>05/08/2017 13:52:18</publishTime>
+    </File>
+    <File Include="bin/Rainbow.Storage.Yaml.dll">
+      <publishTime>05/08/2017 13:52:18</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>08/12/2015 14:41:54</publishTime>
+    </File>
+    <File Include="bin/SimpleInjector.dll">
+      <publishTime>11/12/2015 13:28:48</publishTime>
+    </File>
+    <File Include="bin/Sitecore.ContentSearch.dll">
+      <publishTime>02/24/2016 16:04:40</publishTime>
+    </File>
+    <File Include="bin/Sitecore.Kernel.dll">
+      <publishTime>05/20/2016 18:44:46</publishTime>
+    </File>
+    <File Include="bin/Unicorn.dll">
+      <publishTime>05/15/2017 22:32:30</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/09/2017 21:51:15</publishTime>
+    </File>
+    <File Include="sitecore/shell/Themes/Standard/AssetBankIcon.zip">
+      <publishTime>01/08/2016 10:00:53</publishTime>
+    </File>
+    <File Include="sitecore/shell/Themes/Standard/AssetBankIcon/128x128/asset-bank-icon.png">
+      <publishTime>01/08/2016 09:59:26</publishTime>
+    </File>
+    <File Include="sitecore/shell/Themes/Standard/AssetBankIcon/16x16/asset-bank-icon.png">
+      <publishTime>01/08/2016 10:00:34</publishTime>
+    </File>
+    <File Include="sitecore/shell/Themes/Standard/AssetBankIcon/24x24/asset-bank-icon.png">
+      <publishTime>01/08/2016 10:00:19</publishTime>
+    </File>
+    <File Include="sitecore/shell/Themes/Standard/AssetBankIcon/32x32/asset-bank-icon.png">
+      <publishTime>01/08/2016 10:00:06</publishTime>
+    </File>
+    <File Include="sitecore/shell/Themes/Standard/AssetBankIcon/48x48/asset-bank-icon.png">
+      <publishTime>01/08/2016 09:59:46</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/07/2017 23:08:43</publishTime>
+    </File>
+  </ItemGroup>
+</Project>

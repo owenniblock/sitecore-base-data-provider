@@ -1,0 +1,80 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.ExampleIntegration", "Kumquat.ExampleIntegration\Kumquat.ExampleIntegration.csproj", "{0EBD9EA8-457C-4A8F-93CA-6BCEC066DCD2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.SAS.SC", "Kumquat.SAS.SC\Kumquat.SAS.SC.csproj", "{EAA0DB3B-1A50-4DAF-A8FD-5932E576FA9D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SAS.SC", "SAS.SC", "{78388A9B-0442-400B-A304-9D1CB37BC916}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ExampleIntegration", "ExampleIntegration", "{944585A9-E926-4F7D-919B-182632236ED6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.ExampleIntegration.Website", "Kumquat.ExampleIntegration.Website\Kumquat.ExampleIntegration.Website.csproj", "{3C05473F-7953-4BAB-85E4-D7B793706328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.ExampleIntegration.Interfaces", "Kumquat.ExampleIntegration.Interfaces\Kumquat.ExampleIntegration.Interfaces.csproj", "{4DA84A90-69DA-42CD-87C6-5171BDF339ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.SAS.SC.Interfaces", "Kumquat.SAS.SC.Interfaces\Kumquat.SAS.SC.Interfaces.csproj", "{3936621C-CC85-47C0-9012-90EB20C3008F}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Utilities", "Utilities", "{1549C90A-7629-4FA9-A63B-58909F780304}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.Utilities", "Kumquat.Utilities\Kumquat.Utilities.csproj", "{BBCD6904-6B14-4A9E-A49A-B20D5BC288D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.Utilities.Interfaces", "Kumquat.Utilities.Interfaces\Kumquat.Utilities.Interfaces.csproj", "{6CCE7D51-7AD6-40D3-A0E4-0A72AA67AA8F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kumquat.Utilities.Tests", "Kumquat.Utilities.Tests\Kumquat.Utilities.Tests.csproj", "{3F00E366-A986-4AE1-8C58-AEB1AEAF0073}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0EBD9EA8-457C-4A8F-93CA-6BCEC066DCD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EBD9EA8-457C-4A8F-93CA-6BCEC066DCD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EBD9EA8-457C-4A8F-93CA-6BCEC066DCD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EBD9EA8-457C-4A8F-93CA-6BCEC066DCD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EAA0DB3B-1A50-4DAF-A8FD-5932E576FA9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EAA0DB3B-1A50-4DAF-A8FD-5932E576FA9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EAA0DB3B-1A50-4DAF-A8FD-5932E576FA9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EAA0DB3B-1A50-4DAF-A8FD-5932E576FA9D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3C05473F-7953-4BAB-85E4-D7B793706328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C05473F-7953-4BAB-85E4-D7B793706328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C05473F-7953-4BAB-85E4-D7B793706328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C05473F-7953-4BAB-85E4-D7B793706328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DA84A90-69DA-42CD-87C6-5171BDF339ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DA84A90-69DA-42CD-87C6-5171BDF339ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DA84A90-69DA-42CD-87C6-5171BDF339ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DA84A90-69DA-42CD-87C6-5171BDF339ED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3936621C-CC85-47C0-9012-90EB20C3008F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3936621C-CC85-47C0-9012-90EB20C3008F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3936621C-CC85-47C0-9012-90EB20C3008F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3936621C-CC85-47C0-9012-90EB20C3008F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBCD6904-6B14-4A9E-A49A-B20D5BC288D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBCD6904-6B14-4A9E-A49A-B20D5BC288D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBCD6904-6B14-4A9E-A49A-B20D5BC288D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBCD6904-6B14-4A9E-A49A-B20D5BC288D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6CCE7D51-7AD6-40D3-A0E4-0A72AA67AA8F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6CCE7D51-7AD6-40D3-A0E4-0A72AA67AA8F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6CCE7D51-7AD6-40D3-A0E4-0A72AA67AA8F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6CCE7D51-7AD6-40D3-A0E4-0A72AA67AA8F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3F00E366-A986-4AE1-8C58-AEB1AEAF0073}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3F00E366-A986-4AE1-8C58-AEB1AEAF0073}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3F00E366-A986-4AE1-8C58-AEB1AEAF0073}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3F00E366-A986-4AE1-8C58-AEB1AEAF0073}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{0EBD9EA8-457C-4A8F-93CA-6BCEC066DCD2} = {944585A9-E926-4F7D-919B-182632236ED6}
+		{EAA0DB3B-1A50-4DAF-A8FD-5932E576FA9D} = {78388A9B-0442-400B-A304-9D1CB37BC916}
+		{3C05473F-7953-4BAB-85E4-D7B793706328} = {944585A9-E926-4F7D-919B-182632236ED6}
+		{4DA84A90-69DA-42CD-87C6-5171BDF339ED} = {944585A9-E926-4F7D-919B-182632236ED6}
+		{3936621C-CC85-47C0-9012-90EB20C3008F} = {78388A9B-0442-400B-A304-9D1CB37BC916}
+		{BBCD6904-6B14-4A9E-A49A-B20D5BC288D1} = {1549C90A-7629-4FA9-A63B-58909F780304}
+		{6CCE7D51-7AD6-40D3-A0E4-0A72AA67AA8F} = {1549C90A-7629-4FA9-A63B-58909F780304}
+		{3F00E366-A986-4AE1-8C58-AEB1AEAF0073} = {1549C90A-7629-4FA9-A63B-58909F780304}
+	EndGlobalSection
+EndGlobal

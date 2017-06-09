@@ -1,0 +1,31 @@
+﻿---
+ID: 898662b7-465a-47d3-9854-312eae63390d
+Parent: 8680a7b0-d755-4509-8814-a6c562394103
+Template: 9c378d7a-34bf-4764-a798-fddc3e7ca36b
+Path: /sitecore/system/Modules/Example Provider/User List
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Business/32x32/address_book2.png
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160105T104808Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+  - Version: 2
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160105T104808Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
+    - ID: db42d1c5-9348-46a5-93f4-0f06f2f1777f
+      # ExternalId
+      Value: Folder_-1

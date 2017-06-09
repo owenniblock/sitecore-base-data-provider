@@ -1,0 +1,24 @@
+﻿---
+ID: faea1ff3-3361-4af5-8aa5-66b1a652d286
+Parent: 155dc1f8-54c1-4912-a8d2-e434396673d7
+Template: ab86861a-6030-46c5-b394-e8f99e8b87db
+Path: /sitecore/templates/Modules/Example Connector/Provider Templates/User
+SharedFields:
+- ID: 06d5295c-ed2f-4a54-9bf2-26228d113318
+  # __Icon
+  Value: Business/32x32/businessman.png
+- ID: 12c33f3f-86c5-43a5-aeb4-5598cec45116
+  # __Base template
+  Type: tree list
+  Value: {950EFE43-4F1D-49D4-8BB4-73B8B7C1FE3A}
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20170607T214351Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin

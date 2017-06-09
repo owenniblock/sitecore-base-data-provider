@@ -1,0 +1,20 @@
+﻿---
+ID: 8a7731de-c0b5-4b72-aa93-a8df855cd69c
+Parent: 978559eb-b654-47c3-a140-c3d9c02c9df7
+Template: 455a3e98-a627-4b40-8035-e683a0331ac7
+Path: /sitecore/templates/Modules/Example Connector/Connector Settings/Settings/Mapped Fields
+SharedFields:
+- ID: ab162cc0-dc80-4abf-8871-998ee5d7ba32
+  # Type
+  Value: Name Value List
+- ID: ba3f86a2-4a1c-4d78-b63d-91c2779c1b5e
+  # __Sortorder
+  Value: 200
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160106T112342Z

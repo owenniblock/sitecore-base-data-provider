@@ -1,0 +1,16 @@
+﻿---
+ID: 8680a7b0-d755-4509-8814-a6c562394103
+Parent: 08477468-d438-43d4-9d6a-6d84a611971c
+Template: a87a00b1-e6db-45ab-8b54-636fec3b5523
+Path: /sitecore/system/Modules/Example Provider
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: 25bed78c-4957-4165-998a-ca1b52f67497
+      # __Created
+      Value: 20160104T110459Z
+    - ID: 5dd74568-4d4b-44c1-b513-0af5f4cda34f
+      # __Created by
+      Value: sitecore\admin
